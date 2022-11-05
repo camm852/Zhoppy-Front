@@ -7,6 +7,8 @@ Project that simulates being a shoe ecommerce
 
 You must run the project after running the backend.
 
+[![BACKEND](https://img.shields.io/badge/Backend-Github-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/camm852/Zhoppy-Api)
+
 
 ## Environment Variables
 
